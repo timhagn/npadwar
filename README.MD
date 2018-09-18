@@ -6,9 +6,10 @@ Back in the mid to late '90s I started a PONG-Clone and called it "Paddle Wars".
 "Finished" by 1997 (switching to Windows Programming and later Web-Development  
 was just more fun, at that time ; ) I have no clue anymore, why I dedicated this game to  
 my father, but here it is, as I've found it in some old Backup rescued  
-from a 3.5" 1.44MB floppy-disk - as far as I remember.
+from a 3.5" 1.44MB floppy-disk - as far as I remember.  
+(Btw.: "Nostrum" was an imaginary business title, I gave me ; )
 
-![Heed the Warning](imgs/npadwar_002.png)
+![Paddle Wars Game Screen](imgs/npadwar_002.png)
 
 ## Getting it to run
 
@@ -60,7 +61,7 @@ shall warn you of the very danger you're getting in ("Press Return/Enter, if you
 Don't know why the flame-animation at the bottom is running so slowly, one might  
 have to tweak DosBox...  
 
-![Heed the Warning](imgs/npadwar_001.png)
+![Heed the Warning Screen](imgs/npadwar_001.png)
 
 After Pressing Return / Enter it might seem like the game is stuck on a black screen  
 but when you give it a little time while it loads the huge amount of sprites,  
