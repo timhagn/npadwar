@@ -43,10 +43,10 @@ As the Game is completely in German, here's a little "translation helper":
 * "Geschwindigkeit" means "Velocity" - the ball's, that is, as one can directly   
   observe, when one clicks the > (faster) or < (slower) arrows.
 * "Methode" means "Method" and clicking one of the three icons next to it stands for:
-  1. On shooting a "goal", the one shooting it get's the ball
-  2. On shooting a "goal", the ball get's thrown in from above at a random position  
-     between the players
-  3. The computer chooses randomly between the other two options after each goal
+  1. On shooting a "goal", the one shooting it get's the ball  
+  2. On shooting a "goal", the ball get's thrown in from above at a random position    
+     between the players  
+  3. The computer chooses randomly between the other two options after each goal  
 * clicking "CPU" means a "highly developed AI" plays against you (right paddle)
 * clicking "Mensch" (as in "Human") chooses such a oponent, whereby the First Player  
   with the left paddle plays by using the UP and DOWN Arrow-Keys
