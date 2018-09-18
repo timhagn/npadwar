@@ -42,7 +42,7 @@ As the Game is completely in German, here's a little "translation helper":
 #### Config Screen
 * "Geschwindigkeit" means "Velocity" - the ball's, that is, as one can directly   
   observe, when one clicks the > (faster) or < (slower) arrows.
-* "Methode" means "Method" and clicking one of the three icons next to it stands for:
+* "Methode" means "Method" and clicking one of the three icons next to it stands for:  
   1. On shooting a "goal", the one shooting it get's the ball  
   2. On shooting a "goal", the ball get's thrown in from above at a random position    
      between the players  
