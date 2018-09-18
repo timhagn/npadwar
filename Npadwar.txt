@@ -1,0 +1,58 @@
+Nostrum präsentiert:
+Paddle Wars
+Tja, dies ist die Version 0.9.5.4 meines Spieles.
+Hoffe, es gefällt.
+
+Installation:
+1)Kopier die Diskette in das Verzeichnis 
+  C:\NPADWAR
+  und nur in dieses!!!
+  Ab Version 0.9.6 wird es ein Installationsprogramm geben.
+2)Das wars. Mousetreiber installieren (wenn nicht schon installiert),
+  und im Verzeichnis 
+  C:\NPADWAR
+  Npadwar.exe aufrufen.
+
+Funktionen:
+1)Nach dem Intro (durch Taste abbrechbar) bist du im Menue.
+  Hier wird mit der Mouse bedient. Auf NEUES SPIEL gehen, um zu starten,
+  auf OPTIONEN, um Einstellungen zu machen und auf QUIT zum rausgehen.
+2)Optionen:
+  1)Geschwindigkeit: Auf die Pfeile > und < gehen, um dem Ball zu 
+    beschleunigen, oder zu bremsen.
+  2)Methode: 1.Gegner bekommt den Ball bei Ballverlust,
+             2.Ball kommt von oben  
+             3.Compi entscheidet
+  3)Zurueck: Ins Hauptmenü
+  4)Cpu / Mensch: Cpu: Computergegner; Mensch: Menschlicher Gegner
+  5)Matchball: Wann das Spiel zu Ende ist
+3)Spiel:
+  1)Es geht heiß her. Return drücken.
+    Ready???? Wenn ja Maustaste oder Leertaste.
+    Du bist immer rechts (Spieler 2). Du spielst mit der Maus. 
+    Dein Gegner mit Tastatur (Cursortasten, Leertaste und Return), 
+    bzw. wenn Du den Computergegner eingestellt hast, spielt der selbst.
+    Wenn Methode 1, bekommt der Gegner den Ball, er muß die Leertaste  
+    drücken um ihn wieder loszuwerden.
+    Wenn du ihn hast, linkeste Maustaste drücken.
+    Du kannst jederzeit mit der rechtesten Maustaste (Nummero 3) oder ESC 
+    abbrechen.
+  2)Wer gewonnen hat kommt als kurzer Scrolly.
+4)Quit:
+  Tja, das heißt Schluß, aus, Ende!!!
+  Dein Computer stürzt ab!!! Deine Festplatte wird gelöscht!!!
+  Die Welt geht unter!!!!!!
+  Ist natürlich nur ein Scherz!!!
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  Grins! :-)
+  Naja, es wird dir halt noch das Ergebnis gezeigt, und du kommst nach
+  Druck auf Return raus.
+  Back to the Roots, ehm, to the DOS.
+
+So, det wars. Hoffe diese Anleitung hilft, obwohl NPADWAR sowieso grössenteils 
+selbsterklärend ist.
+
+VIIIIIEEEEEL SPASS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Tim Hagn
+
