@@ -103,3 +103,8 @@ I added [NPAD2_UTF8.PAS](src/NPAD2_UTF8.PAS) reencoded to UTF-8 as well.
 In the file [Npadwar.txt](Npadwar.txt) my teenage self wrote me an explanation  
 of how to play the game (and how *not* to write a documentation % ) in German.  
 But more on the how-tos above.
+
+### GitHub Archive Program
+
+Let's hope that with this commit, "Nostrum Paddle Wars" is now gonna be _immortalized_ ^^.
+Greetings to the future : )!
